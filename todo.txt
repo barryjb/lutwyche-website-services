@@ -5,4 +5,5 @@ Create "contact-bar" accounts and uncomment them as we build them;
 #Code
 Add a footer to every page (by importing footer.html??)
 Add animation to "contact-bar" tags https://www.youtube.com/watch?v=yU3giDe-N6c&list=PLOxCYKXJuypA3Jeny_OUpOpUDvHdcrA4G&index=3&t=98s;
+Add hero typewriter effect to hero section of homepage (see digitalgarden.com.au [the designers of market central website]);
 After get phone number, add a text message option to "contact-bar" https://simpletexting.com/how-to-create-a-link-that-sends-an-sms-text-message/;
